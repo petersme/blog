@@ -6,8 +6,20 @@
     <description>Recent content on meptrsn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2016 04:48:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2016 18:57:47 -0400</lastBuildDate>
     <atom:link href="https://petersme.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Research issues</title>
+      <link>https://petersme.github.io/blog/post/Research-issues/</link>
+      <pubDate>Thu, 13 Oct 2016 18:57:47 -0400</pubDate>
+      
+      <guid>https://petersme.github.io/blog/post/Research-issues/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a bit hard-going with my research work for my thesis. I&amp;rsquo;ve been working on building a &lt;a href=&#34;https://www.researchgate.net/publication/45909007_Granular_Flows_in_Split-Bottom_Geometries&#34;&gt;split-bottom flow cell&lt;/a&gt; for granular flow research; unfortunately, it&amp;rsquo;s been rather difficult to install the glass beads on the sides of the walls with epoxy. Due to the curved surface, it&amp;rsquo;s sort of tricky to coat the walls evenly. In addition, it&amp;rsquo;s difficult to get the cell walls (a polycarbonate cylinder) to seat properly due to splotches of epoxy that thicken the walls in some places.&lt;/p&gt;
+
+&lt;p&gt;Moving forward, I&amp;rsquo;ll be working on getting the cell fully assembled, and then installing the lighting and camera for image capture. I&amp;rsquo;ll be using digital image correlation (DIC) to extract velocity fields from the image data, and getting some good data from my lab setup will be a big step forward.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First Post</title>
