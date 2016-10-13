@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on MEP Blog</title>
+    <title>Post-rsses on meptrsn</title>
     <link>https://petersme.github.io/blog/post/index.xml</link>
-    <description>Recent content in Post-rsses on MEP Blog</description>
+    <description>Recent content in Post-rsses on meptrsn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Oct 2016 04:48:08 -0400</lastBuildDate>
